@@ -17,6 +17,10 @@ nav div {
     color:white;
 }
 
+h2 {
+    text-align: center;
+}
+
 nav div:hover{
     background-color: blue;
 }
@@ -32,7 +36,7 @@ nav a {
 }
 
 .logo:hover {
-    background-color: black;
+    background-color: white;
 }
 
 .logo img {
